@@ -11,7 +11,7 @@ int main(int argc, char** argv) {
     int x;
     int y;
     int z;
-    x=printf("Hello World baseline2\n");
+    x = printf("Hello World baseline2\n");
     x = getoper();
     y = getoper();
     z = mult(x, y);
